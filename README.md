@@ -18,8 +18,8 @@ Projeto da Semana Omnistack #11 da Rocketseat
 </p>
 
 
-<h1>Versão Mobile em breve</h1>
+<h1>Versão Mobile </h1>
 
 <p align="center">
- <img src="https://github.com/Djaysson/Project-BeTheHero/blob/master/frontend/src/assets/logo.svg">
+ <img src="https://github.com/Djaysson/Project-BeTheHero/blob/master/mobile/src/assets/mobile.jpg">
 </p>
