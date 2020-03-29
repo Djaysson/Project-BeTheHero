@@ -1,5 +1,6 @@
 # Project-BeTheHero
 Projeto da Semana Omnistack #11 da Rocketseat
+<p>Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS.</p>
 
 
 <h2>Tecnologias usadas</h2>
@@ -7,7 +8,7 @@ Projeto da Semana Omnistack #11 da Rocketseat
   <li>Node.js</li>
   <li>React</li>
   <li>React Native</li>
-  <li>Expo</li>
+  
 </ul>
 
 
